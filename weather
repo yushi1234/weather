@@ -1,0 +1,23 @@
+class weather
+{
+public static void main(String args[])
+{
+System.out.println("Enter weather forecast of London: ");
+int w = weather;
+switch case()
+{
+case1: int w = new int();
+       System.out.println("Weather is + " w);
+     else;
+ case 2: int s = new int();
+      System.out.println("Wind speed is + " s);
+    else;
+case 3: int p = new int ();
+      System.out.println("Pressure is + " p);
+     else;
+case 4:
+        default = new default("Exit");
+}
+}
+}
+}
